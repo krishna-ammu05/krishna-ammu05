@@ -10,7 +10,8 @@
 <h1 align="center">Hi 👋, I'm <span style="color: #4CAF50;">Ejjigiri Krishnaveni</span></h1>
 <h4 align="center">
   👨‍💻 A Passionate Learner in Technology and Development 🚀 | B.Tech Student 🌟 <br />
-  🚀 I enjoy solving problems, building projects, and growing with the ever-changing tech world.
+  🚀 I enjoy solving problems, building projects, and growing with the ever-changing tech world.|
+   Python, SQL Enthusiast | Exploring the world of Databases🚀
 </h4>
 
 ---
@@ -141,7 +142,7 @@
   </a>
   <a href="https://www.prisma.com/" title="Prisma">
     <img
-      src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      src="https://img.shields.io/badge/Prisma-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="Prisma"
     />
   </a>
